@@ -1,0 +1,4 @@
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/dnasdw/libsundaowen_mbedtls.git
+	branch = mbedtls-2.6
